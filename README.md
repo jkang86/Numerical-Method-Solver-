@@ -41,4 +41,51 @@ The project includes **Euler’s Method**, **Adams–Bashforth/Moulton Predictor
 
 ### 🔹 4. Convergence Analysis
 - Generated **log–log error convergence plots**
-- Verified **s**
+- Verified **second–order convergence** for smooth problems
+- Analyzed failure modes for more complex BVPs
+
+---
+
+## 📚 Folder Structure
+
+
+---
+
+## 📈 Example Plots
+
+### Euler Method Convergence  
+*(placeholder — add your PNG)*  
+![Euler Method](plots/euler_convergence.png)
+
+### FEM Log–Log Error Plot  
+!(plots/fem_loglog.png)
+
+---
+
+## 🧠 Key Technical Skills Demonstrated
+- Numerical ODE and BVP solving
+- Finite Element Method implementation
+- Matrix assembly and sparse linear algebra
+- Error analysis (L2 norms, mesh refinement)
+- Julia programming workflows
+- Scientific plotting & model validation
+
+---
+
+## 🛠️ Tech Stack
+- **Julia**
+- `Plots.jl`, `LinearAlgebra`, `SparseArrays`
+- Jupyter Notebook
+- FEM math + numerical analysis foundations
+
+---
+
+## 📜 License
+This project is for academic and educational use.
+
+---
+
+## 👤 Author
+**Joseph Kang**  
+University of Illinois Chicago  
+
