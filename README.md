@@ -5,7 +5,7 @@
 ![Methods](https://img.shields.io/badge/Methods-Euler%20%7C%20Predictor--Corrector%20%7C%20FEM-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat-square)
 
-This repository contains my **Project 4 (MCS 472)** implementation of core numerical methods used to solve:
+This repository contains my implementation of core numerical methods used to solve:
 
 - Initial Value Problems (IVPs)
 - Boundary Value Problems (BVPs)
@@ -43,22 +43,6 @@ The project includes **Euler’s Method**, **Adams–Bashforth/Moulton Predictor
 - Generated **log–log error convergence plots**
 - Verified **second–order convergence** for smooth problems
 - Analyzed failure modes for more complex BVPs
-
----
-
-## 📚 Folder Structure
-
-
----
-
-## 📈 Example Plots
-
-### Euler Method Convergence  
-*(placeholder — add your PNG)*  
-![Euler Method](plots/euler_convergence.png)
-
-### FEM Log–Log Error Plot  
-!(plots/fem_loglog.png)
 
 ---
 
